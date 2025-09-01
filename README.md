@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h2>Junior FullStack Developer | Javascript, Express, Node.js, React, Python, Django</h2>
+<h2 align="center">Junior FullStack Developer | Javascript, Express, Node.js, React, Python, Django</h2>
 
 <h3>🛠️ Tech Stack</h3>
 <p align="center">
